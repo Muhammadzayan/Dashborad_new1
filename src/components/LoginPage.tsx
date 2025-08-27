@@ -368,12 +368,12 @@ const LoginPage = () => {
                             Client User
                           </div>
                         </SelectItem>
-                        <SelectItem value="agent">
+                        {/* <SelectItem value="agent">
                           <div className="flex items-center gap-2">
                             <UserCheck className="h-4 w-4" />
                             Insurance Agent (Requires Approval)
                           </div>
-                        </SelectItem>
+                        </SelectItem> */}
                       </SelectContent>
                     </Select>
                   </div>
